@@ -1,0 +1,24 @@
+text,true_label,predicted_label,score
+text,LABEL,REAL,0.5000
+"Rząd ogłasza obniżkę podatków dla małych firm, premier potwierdza plan",REAL,REAL,0.5000
+"Nowe badania dowodzą, że jedzenie czekolady powoduje długowieczność",FAKE,REAL,0.5000
+Naukowcy odkryli sygnały radiowe z poza Drogi Mlecznej,REAL,REAL,0.5000
+Szczepionka X powoduje bezpłodność — dowody wyciekły,FAKE,REAL,0.5000
+Polska wygrała umowę na dostawę zielonej energii z Norwegią,REAL,REAL,0.5000
+"Znany aktor zdradził, że jego film był kompletną inscenizacją",FAKE,REAL,0.5000
+Bank centralny obniża stopy procentowe o 0.5%,REAL,REAL,0.5000
+Ratusz planuje wprowadzić całkowity zakaz kotów w centrum miasta,FAKE,REAL,0.5000
+Firma technologiczna wprowadza darmowy router domowy dla każdego gospodarstwa,REAL,REAL,0.5000
+Mikrochip w szczepionkach umożliwia rządowi śledzenie obywateli,FAKE,REAL,0.5000
+Uniwersytet opublikował przełomową metodę leczenia chorób serca,REAL,REAL,0.5000
+Sieć fake newsów tworzyła fałszywe profile celebrytów,FAKE,REAL,0.5000
+Minister zdrowia potwierdza wzrost finansowania służby zdrowia,REAL,REAL,0.5000
+Popularna herbata rzekomo leczy raka — brak dowodów,FAKE,REAL,0.5000
+Nowa linia pociągów skróci czas podróży między miastami o połowę,REAL,REAL,0.5000
+"Ktoś twierdzi, że księżyc to hologram — brak wiarygodnych źródeł",FAKE,REAL,0.5000
+Startup osiąga zysk pierwszego dnia po uruchomieniu produktu,REAL,REAL,0.5000
+"W internecie krąży zdjęcie potwierdzające, że ziemia jest płaska",FAKE,REAL,0.5000
+Miejscowe muzeum odkryło zabytki sprzed 3000 lat,REAL,REAL,0.5000
+Boty na Twitterze tworzą kampanię dezinformacyjną,FAKE,REAL,0.5000
+Lokalna szkoła wprowadza program programowania od pierwszej klasy,REAL,REAL,0.5000
+Książka dietetyczna obiecuje utratę 10 kg w tydzień bez wysiłku,FAKE,REAL,0.5000

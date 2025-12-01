@@ -1,0 +1,15 @@
+RAPORT – Fake News Detector
+
+
+WYNIKI MODELU:
+- Poprawne: 11
+- Błędne: 12
+- Accuracy: 47.83%
+
+WNIOSKI:
+- Model działa poprawnie dla jednoznacznych nagłówków.
+- Krótkie tytuły obniżają skuteczność.
+
+POMYSŁ NA POPRAWĘ:
+- Więcej danych treningowych.
+- Analiza źródła informacji.
