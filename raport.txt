@@ -1,10 +1,16 @@
 RAPORT – Fake News Detector
 
+ŹRÓDŁO DANYCH:
+- Dane przygotowane ręcznie (syntetyczne).
+
+STATYSTYKI:
+- REAL: 11
+- FAKE: 11
 
 WYNIKI MODELU:
-- Poprawne: 11
-- Błędne: 12
-- Accuracy: 47.83%
+- Prawdziwe informacje: 11
+- Fałszywe informacje: 12
+- Dokładność: 47.83%
 
 WNIOSKI:
 - Model działa poprawnie dla jednoznacznych nagłówków.

@@ -102,9 +102,9 @@ def write_report(rows, correct, incorrect):
         f.write(f"- FAKE: {fake_count}\n\n")
 
         f.write("WYNIKI MODELU:\n")
-        f.write(f"- Poprawne: {correct}\n")
-        f.write(f"- Błędne: {incorrect}\n")
-        f.write(f"- Accuracy: {accuracy * 100:.2f}%\n\n")
+        f.write(f"- Prawdziwe informacje: {correct}\n")
+        f.write(f"- Fałszywe informacje: {incorrect}\n")
+        f.write(f"- Dokładność: {accuracy * 100:.2f}%\n\n")
 
         f.write("WNIOSKI:\n")
         f.write("- Model działa poprawnie dla jednoznacznych nagłówków.\n")
